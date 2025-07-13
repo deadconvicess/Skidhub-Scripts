@@ -19,15 +19,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 <img width="807" height="463" alt="scirpt" src="https://github.com/user-attachments/assets/1ae816d9-1bec-4e86-ba41-fc7942cdbc16" />
 
 ---
-Solara Website
-```bash
-https://getsolara.dev
-```
+Solara Website - https://getsolara.dev
 ---
-Get Other Cheats/Executors
-```bash
-https://cheat.today
-```
+Get Other Executors - https://cheat.today
 ---
 👉 Buy Source Code Now on Patreon - https://www.patreon.com/c/WindowsCheater/shop
 
