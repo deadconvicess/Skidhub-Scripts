@@ -4,7 +4,7 @@
 
 ---
 
-# Script
+# Copy This Loadstring And Paste Via Executor
 
 ```bash
 loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/main/main.lua"))()
