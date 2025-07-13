@@ -1,8 +1,15 @@
-# Blade ball Script - deadconvicess
+<h1 align="center">⚔Blade Ball Script</h1>
+<p align="center"><i>by deadconvicess</i></p>
 
- Blade Ball Script using **Hydra UI**.
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-Hydra%20UI-purple?style=for-the-badge&logo=lua" />
+  <img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=roblox" />
+  <img src="https://img.shields.io/badge/Game-Blade%20Ball-blue?style=for-the-badge&logo=roblox" />
+  <img src="https://img.shields.io/badge/Source%20Code-Available%20on%20Patreon-orange?style=for-the-badge&logo=patreon" />
+</p>
 
 ---
+
 
 ```bash
 loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/main/main.lua"))()
