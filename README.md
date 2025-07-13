@@ -4,6 +4,14 @@
 
 ---
 
+Paste This Via Executor
+```bash
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/main/main.lua"))()
+```
+
+
+
+
 
 
 ###  ESP Image
