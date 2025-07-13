@@ -23,7 +23,7 @@ Solara Website
 ```bash
 https://getsolara.dev
 ```
-
+---
 Get Other Cheats/Executors
 ```bash
 https://cheat.today
