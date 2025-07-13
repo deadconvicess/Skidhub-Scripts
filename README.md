@@ -28,9 +28,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 ---
 
 
-💸 Buy Source Code
-Get full access to the source code
-
+💸 Get full access to the source code
 👉 Buy Now on Patreon - https://www.patreon.com/c/WindowsCheater/shop
 
 
