@@ -13,14 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 
 
 
-
-
-
-
-
-
-
-
 ###  ESP Image
 
 
@@ -28,7 +20,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 
 
 
-
+# Buy Source Code Here - https://www.patreon.com/c/WindowsCheater/shop
 
 
 
