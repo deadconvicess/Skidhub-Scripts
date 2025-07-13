@@ -1,12 +1,12 @@
-# 🌀 Blade Ball Cheat UI
+# Blade ball Script - deadconvicess
 
-Clean and functional cheat hub for Blade Ball using **Hydra UI**.
+ Blade Ball Script using **Hydra UI**.
 
 ---
 
 
 
-### 🎯 ESP System
+###  ESP Image
 
 
 
@@ -44,12 +44,7 @@ Clean and functional cheat hub for Blade Ball using **Hydra UI**.
 
 
 
-- 🦶 WalkSpeed & JumpPower sliders  
-- 🛫 Fly / Noclip / SpinBot / Fake Lag  
-- 🚫 Anti-Fling & Anti-AFK protection  
-- 🧩 Modular toggle system under **Player tab**
-
+- WalkSpeed & JumpPower sliders  
+- Fly / Noclip / SpinBot / Fake Lag  
+-  Anti-Fling & Anti-AFK protection  
 ---
-
-> Built for stability, clarity, and performance.  
-> UI powered by **Hydra UI** — fully expandable, clean layout.
