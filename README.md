@@ -23,7 +23,6 @@ Solara Download
 ```bash
 https://getsolara.dev
 ```
-Other Executors - https://cheat.today
 
 More Cheats/Executors
 ```bash
