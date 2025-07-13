@@ -9,14 +9,19 @@ Paste This Via Executor
 loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/main/main.lua"))()
 ```
 
+<img width="807" height="463" alt="scirpt" src="https://github.com/user-attachments/assets/1ae816d9-1bec-4e86-ba41-fc7942cdbc16" />
+
+
+
+
+
+
 
 
 
 
 
 ###  ESP Image
-
-
 
 
 <img width="617" height="747" alt="esp" src="https://github.com/user-attachments/assets/86bb240f-0cf9-46c9-943d-a9aba58630fe" />
@@ -26,12 +31,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 
 
 
-- ✅ Player ESP  
-- ✅ Distance indicators  
-- ✅ Name & tracer lines  
-- ✅ Fully toggleable in real-time
-
----
 
 
 
@@ -44,16 +43,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 
 
 
-### ⚙️ Player & Anti Options
-
-
-
-<img width="807" height="463" alt="scirpt" src="https://github.com/user-attachments/assets/1ae816d9-1bec-4e86-ba41-fc7942cdbc16" />
-
-
-
-
-- WalkSpeed & JumpPower sliders  
-- Fly / Noclip / SpinBot / Fake Lag  
--  Anti-Fling & Anti-AFK protection  
----
