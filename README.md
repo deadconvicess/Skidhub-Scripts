@@ -28,7 +28,7 @@ Get Other Cheats/Executors
 ```bash
 https://cheat.today
 ```
-
+---
 👉 Buy Source Code Now on Patreon - https://www.patreon.com/c/WindowsCheater/shop
 
 
