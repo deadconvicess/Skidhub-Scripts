@@ -20,7 +20,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeba
 
 ---
 Solara Website - https://getsolara.dev
----
 Get Other Executors - https://cheat.today
 ---
 👉 Buy Source Code Now on Patreon - https://www.patreon.com/c/WindowsCheater/shop
