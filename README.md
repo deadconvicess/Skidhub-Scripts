@@ -12,7 +12,7 @@
 
 
 ```bash
-loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deadconvicess/Bladeball-Script/refs/heads/main/main.lua"))()
 ```
 ---
 
