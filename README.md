@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/UI-Hydra%20UI-purple?style=for-the-badge&logo=lua" />
   <img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=roblox" />
   <img src="https://img.shields.io/badge/Game-Blade%20Ball-blue?style=for-the-badge&logo=roblox" />
-  <img src="https://img.shields.io/badge/Source%20Code-Available%20on%20Patreon-orange?style=for-the-badge&logo=patreon" />
 </p>
 
 ---
