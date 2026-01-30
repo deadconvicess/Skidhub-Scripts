@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/e04a47a8-b16d-43f7-9b91-85e6c002d65b
 
 ---
 
-## This will be opensource soon
+## This project will be open source soon...
 
 This cheat was made by me and there will be more updates and new features later on, and cheat is fully und:)
 
