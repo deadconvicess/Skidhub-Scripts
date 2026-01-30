@@ -1,3 +1,5 @@
+-- There will be a paid script soon...
+
 -- This script was made and obfuscated by @kaz
 -- This gui has alot of features and best und auto farm.
 
