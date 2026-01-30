@@ -17,5 +17,7 @@ Use solara - https://getsolara.dev
 
 ---
 
+## Get Script
+
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/deadconvicess/Beeswarm-Script/refs/heads/master/swarm.lua'))()
