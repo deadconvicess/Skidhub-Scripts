@@ -1,5 +1,5 @@
 --// MADE BY @DEADCONVICESS //--
---  IM AWARE OF THE CODING ISSUES.
+--// IM AWARE OF THE CODING ISSUES --//
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
