@@ -1,7 +1,6 @@
 # Bee Swarm Script
 
-
-https://github.com/user-attachments/assets/56d2de3e-29d2-4634-a321-3274abc05ca1
+https://github.com/user-attachments/assets/2121356a-d2b3-4d49-9647-156c37cee2a7
 
 ---
 
